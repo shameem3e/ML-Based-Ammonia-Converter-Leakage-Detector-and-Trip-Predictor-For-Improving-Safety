@@ -4,4 +4,4 @@ Abstract— An Ammonia converter is a crucial and sophisticated vessel in an amm
 
 Keywords— Machine Learning, Naive Bayes, Ammonia Converter, Abnormal condition detector.
 
-Citation— Mritunjoy Sarker, Md. Mahbubur Rahman, (MD. Shameem Ahammed](https://sites.google.com/view/shameem3e), Sourav Sarker, Zinia Jahan, and Md. Shake Farid Uddin “ML Based Ammonia Converter Leakage Detector and Trip Predictor For Improving Safety”, 2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh, 2024, pp. 1-6. [https://doi.org/10.1109/ICRPSET64863.2024.10955943](https://doi.org/10.1109/ICRPSET64863.2024.10955943)
+Citation— Mritunjoy Sarker, Md. Mahbubur Rahman, [MD. Shameem Ahammed](https://sites.google.com/view/shameem3e), Sourav Sarker, Zinia Jahan, and Md. Shake Farid Uddin “ML Based Ammonia Converter Leakage Detector and Trip Predictor For Improving Safety”, 2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), Rajshahi, Bangladesh, 2024, pp. 1-6. [https://doi.org/10.1109/ICRPSET64863.2024.10955943](https://doi.org/10.1109/ICRPSET64863.2024.10955943)
